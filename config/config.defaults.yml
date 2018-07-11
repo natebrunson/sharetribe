@@ -174,8 +174,8 @@ default: &default_settings
 
   smtp_email_address: "smtp-relay.gmail.com"
   smtp_email_port: 587
-  smtp_email_user_name: "info@rntlapp.com"
-  smtp_email_password: "b00Y@ll$187"
+  smtp_email_user_name: "tech@rntlapp.com"
+  smtp_email_password: "tech1234"
   smtp_email_domain: "rntlapp.com"
 
   # This will be the from field in the mails sent from Sharetribe
